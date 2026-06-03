@@ -6,6 +6,7 @@
 
 | 仓库 | 简介 | 技术关键词 |
 | --- | --- | --- |
+| [github-index](https://github.com/0x78rensai-pixel/github-index) | 我的 GitHub 仓库导航，集中整理文章、笔记和项目链接。 | GitHub, Navigation, Index |
 | [codex-windows-plugin-fix](https://github.com/0x78rensai-pixel/codex-windows-plugin-fix) | Windows 上 Codex Desktop 的 Chrome 和 Computer Use 插件不可用问题排查与修复记录。 | Codex, Windows, Chrome, Computer Use, PowerShell |
 
 ## 项目实践
@@ -21,4 +22,3 @@
 ## 维护说明
 
 以后新增仓库时，可以按类别把链接补到上面的表格中。建议每个仓库都写一句简介和 2-5 个关键词，方便后续查找。
-
