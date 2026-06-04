@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [github-index](https://github.com/0x78rensai-pixel/github-index) | 我的 GitHub 仓库导航，集中整理文章、笔记和项目链接。 | GitHub, Navigation, Index |
 | [codex-windows-plugin-fix](https://github.com/0x78rensai-pixel/codex-windows-plugin-fix) | Windows 上 Codex Desktop 的 Chrome 和 Computer Use 插件不可用问题排查与修复记录。 | Codex, Windows, Chrome, Computer Use, PowerShell |
+| [codexbridge-weixin-setup](https://github.com/0x78rensai-pixel/codexbridge-weixin-setup) | 使用 CodexBridge 将 Codex 接入个人微信的 Windows 实战笔记，记录安装、扫码登录、后台服务与踩坑修复。 | CodexBridge, WeChat, Codex, Windows, Node.js |
 
 ## 项目实践
 
