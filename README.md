@@ -15,7 +15,7 @@
 
 | 日期 | 论文 | 方向 | 具体笔记 |
 | --- | --- | --- | --- |
-| 2026-06-13 | Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite | LEO Satellite, CF-mMIMO, Beamforming, WSR | [从加权和速率最大化看 LEO 卫星 Cell-Free Massive MIMO 的下一步](https://github.com/0x78rensai-pixel/paper-reading-notes/tree/main/papers/2026/2026-06-13-leo-satellite-cf-mimo-paper) |
+| 2026-06-13 | GNN-enabled Precoding for Massive MIMO LEO Satellite Communications | LEO Satellite, Massive MIMO, GNN, Precoding | [从 GNN 预编码看 LEO Massive MIMO 的低复杂度推理](https://github.com/0x78rensai-pixel/paper-reading-notes/tree/main/papers/2026/2026-06-13-leo-satellite-cf-mimo-paper) |
 
 ## 项目实践
 
