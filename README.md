@@ -9,6 +9,13 @@
 | [github-index](https://github.com/0x78rensai-pixel/github-index) | GitHub 仓库导航，用于集中整理文章、笔记和项目链接。 | GitHub, Navigation, Index |
 | [codex-windows-plugin-fix](https://github.com/0x78rensai-pixel/codex-windows-plugin-fix) | Windows 中 Codex Desktop 的 Chrome 和 Computer Use 插件不可用问题排查与修复记录。 | Codex, Windows, Chrome, Computer Use, PowerShell |
 | [codexbridge-weixin-setup](https://github.com/0x78rensai-pixel/codexbridge-weixin-setup) | 使用 CodexBridge 将 Codex 接入微信的 Windows 实战笔记，记录安装、扫码登录、后台服务与问题修复。 | CodexBridge, WeChat, Codex, Windows, Node.js |
+| [paper-reading-notes](https://github.com/0x78rensai-pixel/paper-reading-notes) | 论文阅读笔记仓库，按年份、主题和论文单篇页面整理中文读后感。 | Paper Reading, IEEE, Notes |
+
+## 论文分享专区
+
+| 日期 | 论文 | 方向 | 具体笔记 |
+| --- | --- | --- | --- |
+| 2026-06-13 | Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite | LEO Satellite, CF-mMIMO, Beamforming, WSR | [从加权和速率最大化看 LEO 卫星 Cell-Free Massive MIMO 的下一步](https://github.com/0x78rensai-pixel/paper-reading-notes/tree/main/papers/2026/2026-06-13-leo-satellite-cf-mimo-paper) |
 
 ## 项目实践
 
