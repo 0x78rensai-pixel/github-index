@@ -15,7 +15,7 @@
 
 | 日期 | 论文 | 方向 | 具体笔记 |
 | --- | --- | --- | --- |
-| 2026-06-13 | GNN-enabled Precoding for Massive MIMO LEO Satellite Communications | LEO Satellite, Massive MIMO, GNN, Precoding | [从 GNN 预编码看 LEO Massive MIMO 的低复杂度推理](https://github.com/0x78rensai-pixel/paper-reading-notes/tree/main/papers/2026/2026-06-13-leo-satellite-cf-mimo-paper) |
+| 2026-06-13 | GNN-enabled Precoding for Massive MIMO LEO Satellite Communications | LEO Satellite, Massive MIMO, GNN, Precoding | [从 GNN 预编码看 LEO Massive MIMO 的低复杂度推理](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-13-leo-satellite-cf-mimo-paper/index.md) |
 
 ## 项目实践
 
