@@ -22,6 +22,7 @@
 
 | 日期 | 论文 | 方向 | 具体笔记 |
 | --- | --- | --- | --- |
+| 2026-06-19 | Impact of Channel Aging on Cell-Free Massive MIMO Over Spatially Correlated Channels | Cell-Free Massive MIMO, Channel Aging, Doppler, SINR | [从信道老化看 Cell-Free Massive MIMO 的时变信道鲁棒性](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-19-channel-aging-cell-free-massive-mimo/index.md) |
 | 2026-06-18 | Federated Learning Aided LEO Satellite Communications: A Distributed Beamforming Approach | LEO Satellite, Distributed Beamforming, Federated Learning, Wireless AI | [从联邦学习分布式波束成形看 LEO 卫星协作通信](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-18-federated-learning-leo-distributed-beamforming/index.md) |
 | 2026-06-17 | Improving Integrated Satellite-Terrestrial Cell-Free Massive MIMO Systems by Rate-Splitting Multiple Access | LEO Satellite, Cell-Free Massive MIMO, RSMA, Energy Efficiency | [从 RSMA 看星地融合 Cell-Free Massive MIMO 的能效优化](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-17-rsma-ist-cf-mimo-energy-efficiency/index.md) |
 | 2026-06-16 | Weighted Sum Rate Maximization for Cell Free Massive MIMO Network of LEO Satellite | LEO Satellite, Cell-Free Massive MIMO, WSR, Beamforming | [从加权和速率最大化看 LEO Cell-Free Massive MIMO 下行波束成形](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-16-weighted-sum-rate-cf-mimo-leo-satellite/index.md) |
