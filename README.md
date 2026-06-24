@@ -22,6 +22,7 @@
 
 | 日期 | 论文 | 方向 | 具体笔记 |
 | --- | --- | --- | --- |
+| 2026-06-24 | Future Ultra-Dense LEO Satellite Networks: A Cell-Free Massive MIMO Approach | LEO Satellite, Cell-Free Massive MIMO, NTN, Handover | [从超密集 LEO 星座看 Cell-Free Massive MIMO 架构设计](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-24-future-ultra-dense-leo-cf-mimo/index.md) |
 | 2026-06-23 | GNN-Enabled Deep Unfolding for Precoding in Massive MIMO LEO Satellite Communications | LEO Satellite, Massive MIMO, GNN, Deep Unfolding, Precoding | [从 GNN 深度展开看 LEO Massive MIMO 预编码的能效优化](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-23-gnn-deep-unfolding-precoding-massive-mimo-leo/index.md) |
 | 2026-06-22 | A Tractable Approach to Coverage Analysis in Downlink Satellite Networks | LEO Satellite, Coverage Probability, Stochastic Geometry, SINR | [从随机几何看下行卫星网络覆盖概率分析](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-22-coverage-analysis-downlink-satellite-networks/index.md) |
 | 2026-06-19 | Impact of Channel Aging on Cell-Free Massive MIMO Over Spatially Correlated Channels | Cell-Free Massive MIMO, Channel Aging, Doppler, SINR | [从信道老化看 Cell-Free Massive MIMO 的时变信道鲁棒性](https://github.com/0x78rensai-pixel/paper-reading-notes/blob/main/papers/2026/2026-06-19-channel-aging-cell-free-massive-mimo/index.md) |
