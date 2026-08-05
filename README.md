@@ -6,6 +6,7 @@
 
 | 仓库 | 简介 | 技术关键词 |
 | --- | --- | --- |
+| [2026-TI-H-Ball-Balancing-Car](https://github.com/0x78rensai-pixel/2026-TI-H-Ball-Balancing-Car) | 2026 电赛 H 题车载平衡滚球运动控制系统，包含 STM32F103 循迹与摆杆 PID、K230D 钢球识别、ESP32-CAM 无线图传、完整连线图、OLED UI 和效果视频。 | STM32F103, K230D, ESP32-CAM, PID, Computer Vision, Embedded |
 | [campus-server-frp-access](https://github.com/0x78rensai-pixel/campus-server-frp-access) | 使用阿里云 ECS 和 FRP 安全访问无公网 IP 的校园内网 Linux 服务器，包含中文部署、运维、备份与排错指南。 | FRP, Linux, SSH, Network, Aliyun |
 | [jinwu-codex-pet](https://github.com/0x78rensai-pixel/jinwu-codex-pet) | 金乌 Codex 桌宠 v0.1：Q 版三足太阳神鸟，包含 Codex 外观宠物包、外部桌宠运行时、设置 UI、鼠标静止互动和分身原型。 | Codex, Desktop Pet, Python, Tkinter, Sprite |
 | [snake-speed-runner](https://github.com/0x78rensai-pixel/snake-speed-runner) | 贪吃蛇，可调节速度；用于测试 Codex 辅助开发可行性。 | Python, Game, Codex |
